@@ -1,5 +1,5 @@
 # Simple Landing Page
-
+ 
 This project is a basic landing page created using only HTML and CSS. It's designed to be a clean, responsive starting point for a website or product showcase.
 
 ## Features
