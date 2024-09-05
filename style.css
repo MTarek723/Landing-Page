@@ -31,3 +31,44 @@ header ul {
 header li {
     color: rgb(171, 169, 169);
 }
+
+/* first part */
+.first {
+    padding-top: 40px;
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 79px;
+    padding-bottom: 40px;
+}
+.first-right {
+background-color: gray;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 100px;
+margin-left: -50px;
+}
+.first-left h1 {
+    font-size: 48px;
+    color: white;
+    margin-top: 0;
+}
+.first-left p {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 70%;
+}
+.first-left button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 35px;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: white;
+    border-color: #3882F6;
+}
+
